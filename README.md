@@ -1,3 +1,6 @@
+
+![image](https://github.com/jibek1201/C-project/assets/144125710/f15d7949-76fa-46e5-8798-9d7e088ad08b)
+
 # Recipe Manager App
 
 **Recipe Manager App** is a simple application for managing and organizing your favorite recipes. It allows you to add, edit, delete, and search for recipes easily.
