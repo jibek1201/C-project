@@ -13,10 +13,6 @@
 - **View Recipes:** View all recipes in a convenient table format.
 - **Search Recipes:** Search for recipes by name, category, or ingredients.
 
-## Getting Started
-
-![Снимок экрана 2023-12-14 104957](https://github.com/jibek1201/C-project/assets/100151471/55aae0ad-d1e7-4bce-8231-69aad5fbcc83)
-
 
 ### Prerequisites
 
