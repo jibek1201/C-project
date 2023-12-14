@@ -12,6 +12,9 @@
 
 ## Getting Started
 
+![Снимок экрана 2023-12-14 104957](https://github.com/jibek1201/C-project/assets/100151471/55aae0ad-d1e7-4bce-8231-69aad5fbcc83)
+
+
 ### Prerequisites
 
 - .NET Framework installed on your machine.
@@ -36,19 +39,3 @@
 3. Double-click on a recipe in the table to edit its details.
 4. Use the "Delete" button to remove a recipe.
 5. Explore the list of recipes and search for specific ones.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [Your Name] for inspiration and guidance.
-
----
-
-Feel free to customize the README to fit your project's specific details and acknowledgments.
